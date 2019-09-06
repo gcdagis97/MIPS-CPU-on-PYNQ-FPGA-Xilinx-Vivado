@@ -9,3 +9,9 @@ processor code was altered in order to light up LEDs corresponding to certain va
 by the ALU. The Software Development Kit (SDK) was used in order to create an First
 Stage Boot Loader (FSBL) which allowed for the code to run off an SD card rather than through
 the USB port.
+
+Platform: PYNQ-Z1
+
+IDE: Xilinx Vivado Design Suite 2018.3
+
+Language: Verilog, VHDL
